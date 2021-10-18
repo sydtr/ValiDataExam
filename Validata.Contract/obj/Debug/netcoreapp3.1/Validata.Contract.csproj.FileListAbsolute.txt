@@ -1,0 +1,12 @@
+C:\Users\ibrahim\source\repos\Validata\Validata.Contract\bin\Debug\netcoreapp3.1\Validata.Contract.deps.json
+C:\Users\ibrahim\source\repos\Validata\Validata.Contract\bin\Debug\netcoreapp3.1\Validata.Contract.dll
+C:\Users\ibrahim\source\repos\Validata\Validata.Contract\bin\Debug\netcoreapp3.1\Validata.Contract.pdb
+C:\Users\ibrahim\source\repos\Validata\Validata.Contract\bin\Debug\netcoreapp3.1\Validata.Entities.dll
+C:\Users\ibrahim\source\repos\Validata\Validata.Contract\bin\Debug\netcoreapp3.1\Validata.Entities.pdb
+C:\Users\ibrahim\source\repos\Validata\Validata.Contract\obj\Debug\netcoreapp3.1\Validata.Contract.csprojAssemblyReference.cache
+C:\Users\ibrahim\source\repos\Validata\Validata.Contract\obj\Debug\netcoreapp3.1\Validata.Contract.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\source\repos\Validata\Validata.Contract\obj\Debug\netcoreapp3.1\Validata.Contract.AssemblyInfoInputs.cache
+C:\Users\ibrahim\source\repos\Validata\Validata.Contract\obj\Debug\netcoreapp3.1\Validata.Contract.AssemblyInfo.cs
+C:\Users\ibrahim\source\repos\Validata\Validata.Contract\obj\Debug\netcoreapp3.1\Validata.Contract.csproj.CopyComplete
+C:\Users\ibrahim\source\repos\Validata\Validata.Contract\obj\Debug\netcoreapp3.1\Validata.Contract.dll
+C:\Users\ibrahim\source\repos\Validata\Validata.Contract\obj\Debug\netcoreapp3.1\Validata.Contract.pdb
